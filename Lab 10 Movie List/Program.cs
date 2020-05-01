@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Lab_10_Movie_List
 {
-    class Program // seamless GR
+    class Program
     {
         static void Main(string[] args)
         {
